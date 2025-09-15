@@ -53,8 +53,8 @@ Before setting up the project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd advanced-rag-system
+git clone https://github.com/codergoel/advanced-rag-system-v2.git
+cd advanced-rag-system-v2
 ```
 
 ### 2. Backend Setup
